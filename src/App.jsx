@@ -2,6 +2,7 @@
 import { Suspense } from 'react'
 import './App.css'
 import Devices from './Component/Devices/Devices'
+import Header from './Component/Header/Header';
 
 function App() {
 
@@ -11,7 +12,7 @@ function App() {
 
   return (
     <>
-      <h1>React awesome device</h1>
+      <Header></Header>
       <Suspense fallback={<h3>Device data are loading...</h3>}>
         <Devices devicePromise={devicePromise}></Devices>
       </Suspense>
