@@ -1,5 +1,6 @@
 import { use } from "react";
 import Device from "../Device/Device";
+import './Devices.css';
 
 
 const Devices = ({ devicePromise }) => {
@@ -9,10 +10,12 @@ const Devices = ({ devicePromise }) => {
 
   return (
     <div>
-      <h3>Total devies: {devices.length}</h3>
-      {devices.map((device) => (
-        <Device key={device.id} device={device}></Device>
-      ))}
+        <h3>Total devies: {devices.length}</h3>
+      <div className="card-container">
+        {devices.map((device) => (
+          <Device key={device.id} device={device}></Device>
+        ))}
+      </div>
     </div>
   );
 };
