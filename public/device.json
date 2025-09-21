@@ -1,0 +1,333 @@
+[
+  {
+    "id": 214,
+    "category": "mobile",
+    "brand": "Google",
+    "model": "Pixel 8 Pro",
+    "price_usd": 999,
+    "specs": {
+      "storage": "128GB",
+      "ram": "12GB",
+      "display": "6.7\" OLED, 2992x1344, 120Hz",
+      "battery": "5050mAh, 30W fast charging",
+      "camera": "50MP + 48MP + 48MP",
+      "processor": "Google Tensor G3",
+      "os": "Android 14",
+      "weight": "213g",
+      "connectivity": ["5G","WiFi 6E","Bluetooth 5.3","NFC"]
+    },
+    "image": "https://store.google.com/product/pixel_8_pro"
+  },
+  {
+    "id": 412,
+    "category": "laptop",
+    "brand": "Apple",
+    "model": "MacBook Pro 14 (M2 Pro)",
+    "price_usd": 1999,
+    "specs": {
+      "cpu": "Apple M2 Pro, 12-core",
+      "gpu": "19-core integrated GPU",
+      "ram": "16GB Unified",
+      "storage": "512GB SSD",
+      "display": "14.2\" Liquid Retina XDR, 3024x1964, 120Hz",
+      "battery": "70Wh, up to 18 hours",
+      "os": "macOS Sonoma",
+      "weight": "1.6kg",
+      "ports": ["HDMI","SDXC","3x Thunderbolt 4","MagSafe 3"]
+    },
+    "image": "https://www.apple.com/macbook-pro-14-and-16/"
+  },
+  {
+    "id": 678,
+    "category": "pc",
+    "brand": "NZXT",
+    "model": "NZXT BLD Gaming PC",
+    "price_usd": 1299,
+    "specs": {
+      "cpu": "Intel Core i5-13600K",
+      "gpu": "NVIDIA GeForce RTX 4070",
+      "ram": "16GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "psu": "750W Gold",
+      "case": "NZXT H510",
+      "os": "Windows 11 Home",
+      "connectivity": ["WiFi 6","Bluetooth 5.2","1G LAN"]
+    },
+    "image": "https://www.nzxt.com/bld"
+  },
+  {
+    "id": 777,
+    "category": "smartwatch",
+    "brand": "Apple",
+    "model": "Apple Watch Series 9",
+    "price_usd": 399,
+    "specs": {
+      "display": "1.9\" Retina LTPO OLED, Always-On",
+      "battery": "18 hours",
+      "sensors": ["HR","SpO2","ECG","Temperature"],
+      "chipset": "Apple S9 SiP",
+      "os": "watchOS 10",
+      "water_resistance": "50m",
+      "connectivity": ["Bluetooth 5.3","WiFi","Optional LTE"]
+    },
+    "image": "https://www.apple.com/apple-watch-series-9/"
+  },
+  {
+    "id": 250,
+    "category": "laptop",
+    "brand": "Lenovo",
+    "model": "Legion 7",
+    "price_usd": 1799,
+    "specs": {
+      "cpu": "AMD Ryzen 9 7945HX",
+      "gpu": "NVIDIA GeForce RTX 4080",
+      "ram": "32GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "display": "16\" WQXGA (2560x1600), 240Hz",
+      "battery": "99.9Wh, up to 10 hours",
+      "os": "Windows 11 Pro",
+      "weight": "2.4kg",
+      "ports": ["USB-C 3.2","2x USB-A","HDMI 2.1","Ethernet","3.5mm audio"]
+    },
+    "image": "https://www.lenovo.com/us/en/legion-laptops"
+  },
+  {
+    "id": 120,
+    "category": "mobile",
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "price_usd": 1199,
+    "specs": {
+      "storage": "256GB",
+      "ram": "12GB",
+      "display": "6.8\" QHD+ AMOLED, 120Hz",
+      "battery": "5000mAh, 45W fast charging",
+      "camera": "200MP + 12MP + 10MP + 10MP",
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14",
+      "weight": "232g",
+      "connectivity": ["5G","WiFi 7","Bluetooth 5.3","UWB"]
+    },
+    "image": "https://www.samsung.com/us/smartphones/galaxy-s24-ultra/"
+  },
+  {
+    "id": 95,
+    "category": "pc",
+    "brand": "Alienware",
+    "model": "Aurora R16",
+    "price_usd": 1799,
+    "specs": {
+      "cpu": "Intel i7-13700F",
+      "gpu": "NVIDIA RTX 4070",
+      "ram": "16GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "psu": "1000W Platinum",
+      "case": "Alienware custom chassis",
+      "os": "Windows 11 Home",
+      "cooling": "Liquid cooling"
+    },
+    "image": "https://www.dell.com/en-us/shop/gaming-and-games/alienware-aurora-r16-gaming-desktop/spd/alienware-aurora-r16-desktop"
+  },
+  {
+    "id": 86,
+    "category": "mobile",
+    "brand": "Samsung",
+    "model": "Galaxy A55",
+    "price_usd": 349,
+    "specs": {
+      "storage": "128GB",
+      "ram": "8GB",
+      "display": "6.6\" FHD+ AMOLED, 120Hz",
+      "battery": "5000mAh",
+      "camera": "64MP + 12MP + 5MP",
+      "processor": "Exynos 1480",
+      "os": "Android 14",
+      "weight": "187g"
+    },
+    "image": "https://www.samsung.com/us/smartphones/galaxy-a/galaxy-a55-5g-a556/"
+  },
+  {
+    "id": 909,
+    "category": "smartwatch",
+    "brand": "Fitbit",
+    "model": "Versa 4",
+    "price_usd": 199,
+    "specs": {
+      "display": "1.58\" AMOLED",
+      "battery": "6+ days",
+      "sensors": ["HR","SpO2","Sleep tracking"],
+      "os": "Fitbit OS",
+      "water_resistance": "50m",
+      "connectivity": ["Bluetooth","WiFi"]
+    },
+    "image": "https://www.fitbit.com/global/us/products/smartwatches/versa4"
+  },
+  {
+    "id": 631,
+    "category": "mobile",
+    "brand": "OnePlus",
+    "model": "OnePlus 12",
+    "price_usd": 799,
+    "specs": {
+      "storage": "256GB",
+      "ram": "12GB",
+      "display": "6.82\" AMOLED, 3168x1440, 120Hz",
+      "battery": "5400mAh, 100W fast charging",
+      "camera": "50MP + 48MP + 64MP",
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14 (OxygenOS)",
+      "weight": "220g"
+    },
+    "image": "https://www.oneplus.com/us/oneplus-12"
+  },
+  {
+    "id": 44,
+    "category": "pc",
+    "brand": "Corsair",
+    "model": "Vengeance i7200",
+    "price_usd": 1499,
+    "specs": {
+      "cpu": "Intel i9-12900K",
+      "gpu": "NVIDIA RTX 3080",
+      "ram": "32GB DDR4",
+      "storage": "2TB NVMe SSD",
+      "psu": "850W Gold",
+      "case": "Corsair 4000D",
+      "os": "Windows 11 Home"
+    },
+    "image": "https://www.corsair.com/us/en/Categories/Products/Systems/c/Cor_Products_Systems"
+  },
+  {
+    "id": 888,
+    "category": "mobile",
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "price_usd": 1299,
+    "specs": {
+      "storage": "256GB",
+      "ram": "8GB",
+      "display": "6.7\" Super Retina XDR, 120Hz",
+      "battery": "4422mAh",
+      "camera": "48MP + 12MP + 12MP",
+      "processor": "Apple A17 Pro",
+      "os": "iOS 17",
+      "weight": "221g"
+    },
+    "image": "https://www.apple.com/iphone-15-pro/"
+  },
+  {
+    "id": 360,
+    "category": "laptop",
+    "brand": "Dell",
+    "model": "XPS 13",
+    "price_usd": 999,
+    "specs": {
+      "cpu": "Intel i7-1355U",
+      "gpu": "Intel Iris Xe",
+      "ram": "16GB LPDDR5",
+      "storage": "512GB SSD",
+      "display": "13.4\" FHD+ OLED, 120Hz",
+      "battery": "55Wh, up to 12 hours",
+      "os": "Windows 11 Home",
+      "weight": "1.17kg"
+    },
+    "image": "https://www.dell.com/en-us/shop/dell-laptops/xps-13-laptop/spd/xps-13-9345-laptop"
+  },
+  {
+    "id": 420,
+    "category": "smartwatch",
+    "brand": "Garmin",
+    "model": "Fenix 7",
+    "price_usd": 599,
+    "specs": {
+      "display": "1.3\" transflective MIP",
+      "battery": "18 days (smartwatch mode)",
+      "sensors": ["HR","GPS","SpO2","Altimeter"],
+      "os": "Garmin OS",
+      "water_resistance": "100m"
+    },
+    "image": "https://www.garmin.com/en-US/p/702823"
+  },
+  {
+    "id": 702,
+    "category": "mobile",
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14 Pro",
+    "price_usd": 899,
+    "specs": {
+      "storage": "512GB",
+      "ram": "16GB",
+      "display": "6.73\" AMOLED, 3200x1440, 120Hz",
+      "battery": "4600mAh, 120W fast charging",
+      "camera": "50MP + 50MP + 50MP",
+      "processor": "Snapdragon 8 Gen 3",
+      "os": "Android 14 (HyperOS)"
+    },
+    "image": "https://www.mi.com/global/product/xiaomi-14-pro"
+  },
+  {
+    "id": 57,
+    "category": "laptop",
+    "brand": "ASUS",
+    "model": "ROG Zephyrus G14",
+    "price_usd": 1499,
+    "specs": {
+      "cpu": "AMD Ryzen 9 7940HS",
+      "gpu": "NVIDIA RTX 4070",
+      "ram": "16GB DDR5",
+      "storage": "1TB NVMe SSD",
+      "display": "14\" QHD+, 165Hz",
+      "battery": "76Wh, up to 8 hours",
+      "os": "Windows 11 Home",
+      "weight": "1.72kg"
+    },
+    "image": "https://rog.asus.com/laptops/rog-zephyrus/"
+  },
+  {
+    "id": 501,
+    "category": "smartwatch",
+    "brand": "Samsung",
+    "model": "Galaxy Watch 6",
+    "price_usd": 299,
+    "specs": {
+      "display": "1.5\" Super AMOLED, Always-On",
+      "battery": "40 hours",
+      "sensors": ["HR","SpO2","ECG","BP"],
+      "chipset": "Exynos W930",
+      "os": "WearOS",
+      "water_resistance": "IP68, 5ATM",
+      "connectivity": ["Bluetooth 5.3","WiFi","Optional LTE"]
+    },
+    "image": "https://www.samsung.com/us/watches/galaxy-watch6/"
+  },
+  {
+    "id": 19,
+    "category": "smartwatch",
+    "brand": "Amazfit",
+    "model": "GTR 4",
+    "price_usd": 179,
+    "specs": {
+      "display": "1.43\" AMOLED",
+      "battery": "14 days typical use",
+      "sensors": ["HR","GPS","SpO2"],
+      "os": "Zepp OS",
+      "water_resistance": "50m"
+    },
+    "image": "https://us.amazfit.com/products/amazfit-gtr-4"
+  },
+  {
+    "id": 11,
+    "category": "smartwatch",
+    "brand": "Pulse",
+    "model": "Pulse HR Pro",
+    "price_usd": 249,
+    "specs": {
+      "display": "1.78\" AMOLED",
+      "battery": "10 days",
+      "sensors": ["HR","SpO2","ECG","GPS"],
+      "os": "PulseOS",
+      "water_resistance": "5ATM"
+    },
+    "image": "https://www.example.com/pulse-hr-pro"
+  }
+]
